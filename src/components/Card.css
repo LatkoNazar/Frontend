@@ -1,0 +1,15 @@
+.card {
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.card:hover {
+  box-shadow: 4px 4px grey;
+}
+
+.card .textArea {
+  color: black;
+  margin: 4%;
+  font-family: Arial, Helvetica, sans-serif;
+}
